@@ -1,0 +1,29 @@
+bin\Debug\RAFFLE PROGRAM.exe
+bin\Debug\RAFFLE PROGRAM.pdb
+bin\Debug\RAFFLE PROGRAM.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RAFFLE_PROGRAM.frmRaffle.resources
+obj\Debug\RAFFLE_PROGRAM.Resources.resources
+obj\Debug\RAFFLE PROGRAM.vbproj.GenerateResource.Cache
+obj\Debug\RAFFLE PROGRAM.exe
+obj\Debug\RAFFLE PROGRAM.xml
+obj\Debug\RAFFLE PROGRAM.pdb
+obj\Debug\RAFFLE_PROGRAM.frmSplash.resources
+obj\Release\RAFFLE PROGRAM.exe
+obj\Release\RAFFLE PROGRAM.xml
+obj\Release\RAFFLE PROGRAM.pdb
+bin\Release\RAFFLE PROGRAM.exe.manifest
+bin\Release\RAFFLE PROGRAM.application
+bin\Release\RAFFLE PROGRAM.exe
+bin\Release\RAFFLE PROGRAM.pdb
+bin\Release\RAFFLE PROGRAM.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\RAFFLE_PROGRAM.crptWinners.rpt
+obj\Release\RAFFLE_PROGRAM.frmAnimate.resources
+obj\Release\RAFFLE_PROGRAM.frmRVWinners.resources
+obj\Release\RAFFLE_PROGRAM.frmSplash.resources
+obj\Release\RAFFLE_PROGRAM.frmRaffle.resources
+obj\Release\RAFFLE_PROGRAM.Resources.resources
+obj\Release\RAFFLE PROGRAM.vbproj.GenerateResource.Cache
+obj\Release\RAFFLE PROGRAM.exe.manifest
+obj\Release\RAFFLE PROGRAM.application

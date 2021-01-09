@@ -1,0 +1,56 @@
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE PROGRAM.exe
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE PROGRAM.xml
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE PROGRAM.pdb
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE_PROGRAM.crptWinners.rpt
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE_PROGRAM.frmRVWinners.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE_PROGRAM.frmSplash.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE_PROGRAM.frmRaffle.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE_PROGRAM.Resources.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE PROGRAM.vbproj.GenerateResource.Cache
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Debug\RAFFLE PROGRAM.exe
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Debug\RAFFLE PROGRAM.pdb
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Debug\RAFFLE PROGRAM.xml
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Debug\RAFFLE_PROGRAM.frmAnimate.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.exe.manifest
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.application
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.exe
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.pdb
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.xml
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.crptWinners.rpt
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmAnimate.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmRVWinners.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmSplash.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmRaffle.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.Resources.resources
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.vbproj.GenerateResource.Cache
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.exe.manifest
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.application
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.exe
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.xml
+C:\Users\Valued Client\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.pdb
+C:\Users\MIS\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.exe
+C:\Users\MIS\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.xml
+C:\Users\MIS\Desktop\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.pdb
+D:\My Applications\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.exe
+D:\My Applications\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.xml
+D:\My Applications\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.pdb
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.exe
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.xml
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.pdb
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.exe.manifest
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.application
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.exe
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.pdb
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\bin\Release\RAFFLE PROGRAM.xml
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\ResolveAssemblyReference.cache
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.crptWinners.rpt
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmAnimate.resources
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmRVWinners.resources
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmSplash.resources
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.frmRaffle.resources
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE_PROGRAM.Resources.resources
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.vbproj.GenerateResource.Cache
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.exe.manifest
+D:\My Programs\Mark Projects\RAFFLE PROGRAM\RAFFLE PROGRAM\obj\Release\RAFFLE PROGRAM.application
